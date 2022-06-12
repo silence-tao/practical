@@ -13,26 +13,3 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-
-*~
-.classpath
-.project
-.settings/
-lib/
-logs/
-target/
-target/*
-bin/
-.DS_Store
-.metadata
-*.log
-*.log.*
-.idea/
-.idea/*
-*.iml
-.#*
-.svn
-out
-.gitignore.swp
-*.ipr
-*.iws
