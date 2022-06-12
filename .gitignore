@@ -21,12 +21,14 @@
 lib/
 logs/
 target/
+target/*
 bin/
 .DS_Store
 .metadata
 *.log
 *.log.*
 .idea/
+.idea/*
 *.iml
 .#*
 .svn
