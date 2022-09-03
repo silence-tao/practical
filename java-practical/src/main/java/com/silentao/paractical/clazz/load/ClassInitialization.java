@@ -23,6 +23,7 @@ public class ClassInitialization {
         // forName方式获取Class对象，会触发类初始化
         Class initable3Class = Class.forName("com.silentao.paractical.clazz.load.Initable3");
         System.out.println("after get Initable3 Class");
+
         System.out.println(Initable3.staticNumber);
     }
 }
